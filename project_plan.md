@@ -74,24 +74,24 @@ This will be a separate submission on Canvas, but it is part of the plan so we a
 
 Let's take a look at an example. Imagine we are creating a mobile app to use computer vision to identify objects in the real world and translate them into a new language. What are some "chunks" we can identify?
 
-* Pre-coding
-  * Locate and evaluate possible computer vision frameworks.
-  * Decide if using a pre-trained model is better than training one ourself.
-  * Determine the best mobile app development framework.
-  * Create wife-frames for the app and a flowchart describing a typical user experience.
-* Mobile App Programming
-  * Learn how to create apps using chosen framework.
-  * Create a proof-of-concept app that links the computer vision model to the app front end.
-  * Build out the different mobile pages required.
-    * Landing Page
-    * Options Screen
-    * Augmented Reality portion
-* Testing
-  * Test the accuracy of the computer vision
-  * Test the accuracy of the translations
-  * Test the user experience
+* Pre-coding (Task 1)
+  * Locate and evaluate possible computer vision frameworks. (Task 1.1)
+  * Decide if using a pre-trained model is better than training one ourself. (Task 1.2)
+  * Determine the best mobile app development framework. (Task 1.3)
+  * Create wife-frames for the app and a flowchart describing a typical user experience. (Task 1.4)
+* Mobile App Programming (Task 2)
+  * Learn how to create apps using chosen framework. (Task 2.1)
+  * Create a proof-of-concept app that links the computer vision model to the app front end. (Task 2.2)
+  * Build out the different mobile pages required. (Task 2.3)
+    * Landing Page (Task 2.3.1)
+    * Options Screen (Task 2.3.2)
+    * Augmented Reality portion (Task 2.3.4)
+* Testing (Task 3)
+  * Test the accuracy of the computer vision (Task 3.1)
+  * Test the accuracy of the translations (Task 3.2)
+  * Test the user experience (Task 3.3)
 
-This is just a very quick example of how to break up a project into large components with some sub-tasks. Still, many of these sub-tasks can be further broken up as needed. It is important to be as detailed as possible with these tasks as this is what you will be referencing in your Weekly Reporting. Each week you will need to tell us what you planned on accomplishing, which should come directly from this Task List. 
+This is just a very quick example of how to break up a project into large components with some sub-tasks. Many of these sub-tasks can be further broken up as needed. In your actual plan you will break up the tasks much more. It is important to be as detailed as possible with these tasks as this is what you will be referencing in your Weekly Reporting. Each week you will need to tell us what you planned on accomplishing, which should come directly from this Task List. We highly recommend you lable your tasks in some sort of identifiable way as demonstrated above. This will make your Weekly Reporting much easier to write if you can mention specific tasks by number. 
 
 ## Let's put a bow on it!
 That was quite a bit of information that we just threw at you. We highly recommend you go back and reread this page. While writing your plan you should revisit each section's description to ensure you are on track.
